@@ -17,3 +17,4 @@
 | `git rm <FILE_NAME>`                           | Removes your file.                                           |
 | `git status -s`                                | Provide a short status description.                          |
 | `git status`                                   | To get the current status of the working folder.             |
+| `git log --pretty=format:"%h %s" --graph` | Summarizes the commits in your repository with format.       |
