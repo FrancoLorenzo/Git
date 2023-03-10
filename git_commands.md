@@ -18,3 +18,7 @@
 | `git status -s`                                | Provide a short status description.                          |
 | `git status`                                   | To get the current status of the working folder.             |
 | `git log --pretty=format:"%h %s" --graph` | Summarizes the commits in your repository with format.       |
+|`git commit -amend`|Undo commits.|
+|`git add <file>`|Update the file you want to commit.|
+|`git checkout -- <file>`|Unstage/unmodify the file you need.|
+|`git reset`|It resets your staging area changes.|
