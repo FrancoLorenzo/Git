@@ -35,4 +35,3 @@
 | `git branch <BRANCH-NAME>` | This command creates a new branch. |
 | `git checkout  <BRANCH-NAME>` | It switches to the branch you need. |
 
-<!-- Doing changes in the testing branch. -->
