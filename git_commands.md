@@ -32,3 +32,7 @@
 | `git status` | To get the current status of the working folder. |
 | `git tag -a` | Create new tags. For example, `git tag -a v1.0 -m "my version 1.0"` |
 | `git tag` | List available Git tags. |
+| `git branch <BRANCH-NAME>` | This command creates a new branch. |
+| `git checkout  <BRANCH-NAME>` | It switches to the branch you need. |
+
+<!-- Doing changes in the testing branch. -->
